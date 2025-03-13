@@ -24,11 +24,6 @@ This dataset contains **7022** images of human brain MRI images which are classi
 About 22% of the images are intended for model testing and the rest for model training.
 Pay attention that The size of the images in this dataset is different. You can resize images to the desired size after pre-processing and removing the extra margins.
 
-### Data Pre-processing
-
-Crop the part of the image that contains only the brain (which is the most important part of the image): The cropping technique is used to find the extreme top, bottom, left and right points of the brain using OpenCV. You can do this with [Preprocessing.py](https://github.com/masoudnick/Brain-Tumor-MRI-Classification/blob/main/Preprocessing.py)
-
-![preprocessing result](https://github.com/masoudnick/Brain-Tumor-MRI-Classification/blob/main/preprocess.jpg)
 
 ## Pre-trained Model
 
