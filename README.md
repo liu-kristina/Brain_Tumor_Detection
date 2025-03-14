@@ -21,10 +21,9 @@ This dataset contains **7022** images of human brain MRI images which are classi
 - no tumor
 - pituitary
 
-About 22% of the images are intended for model testing and the rest for model training.
-Pay attention that The size of the images in this dataset is different. You can resize images to the desired size after pre-processing and removing the extra margins.
+About 22% of the images are intended for model testing and the rest for model training. These notebooks were run in Google Colab.
 
 
 ## Pre-trained Model
 
-A pre-trained model is a model that was trained on a large benchmark dataset to solve a problem similar to the one that we want to solve. Accordingly, due to the computational cost of training such models, it is common practice to import and use models from published literature (e.g. VGG, Inception, ResNet50). For this project, I decided to use **VGG19** model to perform image classification for brain tumor MRI images.[Resnet50 Article](https://arxiv.org/abs/1409.1556)
+A pre-trained model is a model that was trained on a large benchmark dataset to solve a problem similar to the one that we want to solve. Accordingly, due to the computational cost of training such models, it is common practice to import and use models from published literature (e.g. VGG, Inception, ResNet50). For this project, I decided to use **VGG19** model to perform image classification for brain tumor MRI images.[VGG19 Article](https://arxiv.org/abs/1409.1556)
