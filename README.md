@@ -1,4 +1,4 @@
-# Brain Tumor MRI Classification and AI Explinability
+# Brain Tumor MRI Classification and AI Explainability
 
 ## What is a brain tumor?
 
