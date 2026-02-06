@@ -26,4 +26,5 @@ About 22% of the images are intended for model testing and the rest for model tr
 
 ## Pre-trained Model
 
-A pre-trained model is a model that was trained on a large benchmark dataset to solve a problem similar to the one that we want to solve. Accordingly, due to the computational cost of training such models, it is common practice to import and use models from published literature (e.g. VGG, Inception, ResNet50). For this project, I decided to use **VGG19** model to perform image classification for brain tumor MRI images.[VGG19 Article](https://arxiv.org/abs/1409.1556)
+A pre-trained model is a model that was trained on a large benchmark dataset to solve a problem similar to the one that we want to solve. Accordingly, due to the computational cost of training such models, it is common practice to import and use models from published literature (e.g. VGG, Inception, ResNet50). For this project, I decided to use **VGG19** model to perform image classification for brain tumor MRI images and achieved accuracy of 97%.
+[VGG19 Article](https://arxiv.org/abs/1409.1556)
